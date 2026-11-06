@@ -97,10 +97,12 @@ int main()
 ```
 ## OUTPUT
 
-1. <img width="696" height="306" alt="image" src="https://github.com/user-attachments/assets/1733dc2d-b17c-4748-8f6f-31e577c253bb" />
+1.
+ <img width="696" height="306" alt="image" src="https://github.com/user-attachments/assets/1733dc2d-b17c-4748-8f6f-31e577c253bb" />
 
 
-2. <img width="708" height="170" alt="image" src="https://github.com/user-attachments/assets/0aeba15e-61b8-4818-825e-192c5fa9ed21" />
+2.
+<img width="708" height="170" alt="image" src="https://github.com/user-attachments/assets/0aeba15e-61b8-4818-825e-192c5fa9ed21" />
 
 
 
